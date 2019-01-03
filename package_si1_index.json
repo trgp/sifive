@@ -8,8 +8,7 @@
 	    "help": {
 		"online": "https://dev.sifive.com/"
 	    },
-	    "platforms": [
-		
+	    "platforms": [		
 		{
 		    "category": "SiFive",
 		    "name": "SiFive Freedom Boards",
