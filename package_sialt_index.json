@@ -1,0 +1,33 @@
+{
+    "packages": [
+	{
+	    "name": "sifive",
+	    "maintainer": "SiFive",
+	    "websiteURL": "https://github.com/sifive/cinco",
+	    "email": "", 
+	    "help": {
+		"online": "https://dev.sifive.com/"
+	    },
+	    "platforms": [
+		
+		{
+		    "category": "SiFive",
+		    "name": "SiFive Freedom Boards",
+		    "url": "https://github.com/trgp/sifive/raw/master/sifive-1.0.0.zip",
+		    "checksum": "SHA-256:489a82f8cbb4c2fea54dd7507509965643404f7dd12b39e9a8b4b4ed965fca94",
+		    "version": "1.0.0",
+		    "architecture": "riscv",
+		    "archiveFileName": "sifive-1.0.0.zip",
+		    "boards": [
+			{"name": "EClass"},
+			{"name": "Freedom E300 Arty DevKit"}  
+		    ], 
+		    "toolsDependencies": [],
+		    "size": "169175"
+		}
+	    ],
+	    "tools": []
+	}
+    ]
+}
+
